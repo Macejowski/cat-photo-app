@@ -1,2 +1,2 @@
 # cat-photo-app
-First project in freecodecamp
+First html project in freecodecamp
